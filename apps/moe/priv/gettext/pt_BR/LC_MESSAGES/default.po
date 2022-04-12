@@ -1,3 +1,6 @@
 # This is a comment
 msgid "Missing permissions."
 msgstr "Está faltando permissões."
+
+msgid "Your balance: %{money}."
+msgstr "Seu saldo: %{money}."

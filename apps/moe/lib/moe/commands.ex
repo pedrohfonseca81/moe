@@ -2,7 +2,11 @@ defmodule Moe.Commands do
   def commands do
     %{
       "ban" => Moe.Commands.Ban,
-      "help" => Moe.Commands.Help
+      "help" => Moe.Commands.Help,
+
+      # Economy
+
+      "money" => Moe.Commands.Money
     }
   end
 
